@@ -1,0 +1,6 @@
+{
+  "name": "조직개발 프로그램 추천 월드컵",
+  "description": "우리 조직의 상황에 딱 맞는 맞춤형 조직개발(OD) 프로그램을 이상형 월드컵 토너먼트 형식으로 추천해 주는 유쾌하고 직관적인 웹 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
